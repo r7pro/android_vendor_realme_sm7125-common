@@ -77,10 +77,10 @@
           "data": "0.0"
         },
         "3cm_threshold":{ "type": "flt", "ver": "0",
-          "data": "160.0"
+          "data": "120.0"
         },
         "delta":{ "type": "flt", "ver": "0",
-          "data": "110.0"
+          "data": "80.0"
         },
         "cali_goal":{ "type": "flt", "ver": "0",
           "data": "50.0"

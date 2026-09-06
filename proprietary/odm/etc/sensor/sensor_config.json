@@ -71,9 +71,9 @@
                 "module":"tcs3701",
                 "tcs3701":{
                     "mode":"ignore_mean|micro_gap|factory_cali",
-                    "delta_threshold":150,
+                    "delta_threshold":90,
                     "ps0_offset": 0,
-                    "ps0_distance_delta": 110,
+                    "ps0_distance_delta": 65,
                     "ps1_offset": 0,
                     "ps1_distance_delta": 0
                 }
